@@ -1,5 +1,5 @@
 <html><head>
-    <title>School Website - St. Xavier's School</title>
+    <title>School Website - South Point High School </title>
     <link rel="stylesheet" href="style.css">
     <script src="https://kit.fontawesome.com/79d0868708.js" crossorigin="anonymous"></script><style media="all" id="fa-v4-font-face">/*!
  * Font Awesome Free 5.15.3 by @fontawesome - https://fontawesome.com
@@ -31,7 +31,7 @@
                         <span class="icon-bar"></span>
                     </button>
                     <a class="navbar-brand" href="#">
-                        St. Xavier's School
+                        <i> South Point School <i>
                     </a>
                 </div>
 
@@ -44,7 +44,7 @@
                         <li><a href="#Alumni">Alumni</a></li>
                         <li><a href="#Contact">Contact Us</a></li>
                     </ul>
-                    <img src="Frontier%20Physicians.png" style="margin-top: 0px;" width="50">
+                    <img src="https://educationbusinessuk.net/sites/default/files/styles/large/public/ysgol_bae_baglan_2159_james_morris_pressimage_2_copy.jpg?itok=vpP3_tWp" style="margin-top: 0px;" width="50">
                 </div>
             </nav>
 
